@@ -58,7 +58,7 @@ st.subheader("A Data Analyst")
 st.write(
     "I am passionate about finding ways to use Python and Data science tools to be more efficient and effective in business settings."
 )
-st.write("[Download Resume >](https://drive.google.com/file/d/1MGehOPnStO0bUXtaq6vgRe-x2-XmG69E/view?usp=sharing)")
+st.write("[Download Resume >](https://drive.google.com/file/d/1U2DzVYJN9DenK6O-SEFoPtFhunwMJsdg/view?usp=sharing)")
 
 
 #------- Who Am I -------------
